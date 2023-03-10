@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>Simple DevOps Project (AWS) </h1>
+    <h1>Simple DevOps Project, Deploy Static Web App (Vue) using Github & Netlify </h1>
   </div>
 </template>
 
