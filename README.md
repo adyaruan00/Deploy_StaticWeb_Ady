@@ -5,18 +5,12 @@ is a simple DevOps project using Vue.js project that automates the process of de
 <h3>Usage</h3>
 To use the Deploy_StaticWeb_Ady project, you'll need to have Node.js and Git installed on your system. Once you have these dependencies installed, you can follow these steps to deploy your website:
 
-Clone this repo on you local system and try to change the code and push it to the repository back again. And then see the changes in this link: https://6418199b1967a30008dbd322--deploy-test-ady.netlify.app/
+Clone this repo on you local system and try to change the code and push it to the repository back again.
 
 Replace the sample static website files in the public directory with your own website files.
 
-Update the base URL in vue.config.js to match your GitHub Pages URL.
-Run the following commands in the project directory:
-
-<code> npm install </code></td>
-<code> npm run deploy </code>
-
 Wait for the deployment to finish.
-That's it! Your website should now be deployed to GitHub Pages and accessible at https://<username>.github.io/<repository>.
+That's it! Your website should now be deployed to GitHub Pages and accessible at [https://<username>.github.io/<repository>.](https://6418199b1967a30008dbd322--deploy-test-ady.netlify.app/)
 
 Dependencies
 To use this project, you'll need the following dependencies installed:
