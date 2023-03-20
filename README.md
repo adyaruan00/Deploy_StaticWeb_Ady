@@ -2,7 +2,7 @@
 
 Deploy_StaticWeb_Ady is a simple Vue.js project that automates the process of deploying static websites to GitHub Pages. With this project, you can deploy your website with just a few simple steps, without having to worry about the technical details of deployment.
 
-Usage
+<h1>Usage<h/1>
 To use the Deploy_StaticWeb_Ady project, you'll need to have Node.js and Git installed on your system. Once you have these dependencies installed, you can follow these steps to deploy your website:
 
 Clone this repository to your local machine.
@@ -14,6 +14,7 @@ Run the following commands in the project directory:
 
 <code> npm install </code>
 <code> npm run deploy </code>
+
 Wait for the deployment to finish.
 That's it! Your website should now be deployed to GitHub Pages and accessible at https://<username>.github.io/<repository>.
 
