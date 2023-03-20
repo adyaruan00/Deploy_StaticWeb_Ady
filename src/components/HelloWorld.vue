@@ -2,6 +2,7 @@
   <div class="hello">
     <h1>Simple DevOps Project, Deploy Static Web App (Vue) using Github & Netlify </h1>
     <h2>This is the new update for CI/CD</h2>
+    <h3>Testing testing 1 2 3</h3>
   </div>
 </template>
 
