@@ -6,12 +6,14 @@ Usage
 To use the Deploy_StaticWeb_Ady project, you'll need to have Node.js and Git installed on your system. Once you have these dependencies installed, you can follow these steps to deploy your website:
 
 Clone this repository to your local machine.
+
 Replace the sample static website files in the public directory with your own website files.
+
 Update the base URL in vue.config.js to match your GitHub Pages URL.
 Run the following commands in the project directory:
-Copy code
-npm install
-npm run deploy
+
+<code> npm install </code>
+<code> npm run deploy </code>
 Wait for the deployment to finish.
 That's it! Your website should now be deployed to GitHub Pages and accessible at https://<username>.github.io/<repository>.
 
