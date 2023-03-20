@@ -10,7 +10,7 @@ Clone this repo on you local system and try to change the code and push it to th
 Replace the sample static website files in the public directory with your own website files.
 
 Wait for the deployment to finish.
-That's it! Your website should now be deployed to GitHub Pages and accessible at [https://<username>.github.io/<repository>.](https://6418199b1967a30008dbd322--deploy-test-ady.netlify.app/)
+That's it! Your website should now be deployed to GitHub Pages and accessible at https://<username>.github.io/<repository>.](https://6418199b1967a30008dbd322--deploy-test-ady.netlify.app/
 
 Dependencies
 To use this project, you'll need the following dependencies installed:
